@@ -2,7 +2,7 @@
 /*p
 Saad Mohammed And Sajad Salam !
 */
-$API_KEY = "5543556908:AAH8vyZ0ZuzpwWPe8MWyni8nkgJEfy58gZ4";
+$API_KEY = "token";
 define('API_KEY','5543556908:AAH8vyZ0ZuzpwWPe8MWyni8nkgJEfy58gZ4');
 echo "api.telegram.org/bot".API_KEY."/setwebhook?url=".$_SERVER['SERVER_NAME']."".$_SERVER['SCRIPT_NAME'];
 
