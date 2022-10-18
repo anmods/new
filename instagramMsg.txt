@@ -1,31 +1,18 @@
-​​​​​​🚀  Update | تحديث  🚀
+🚀 تحديث اصلاحي | Fix Update 🚀
 
-#ANInstaRakan
+مالجديد في الاصدار V3.00
 
-🤔 What's new in Insta Rakan Al Sharmani version V2.95
-
-💠 [Base Update] Instagram to 249.0.0.20.105
-💠 [Added] All the new Instagram features
-💠 [Added] Rewind video tape in Rails clips
-💠 [Re-verify] unverified accounts
-💠 [Improved] Interface of Insta Rakan plugins
-💠 [Fixed] Unclear video showing problem
-💠 [Fixed] Many random crashes and crashes
-💠 [Improved] update codes and more fixes and other improvements
+✅ [اصلاح] مشكلة الانهيار عند فتح التطبيق في بعض الاجهزه
+✅ [اصلاح] مشكلة الانهيار عند الدخول الى البروفايل الشخصي
+✅ [اصلاح] مشكلة عدم ظهور زر تحميل مقاطع الريلز
+✅ [اصلاح] مشكلة انهيار اضافات راكان الشرماني لهواتف اندرويد 12
+✅ [اصلاح] العديد من الأعطال العشوائية والانهيارات
 
 
-🎉 And a lot of extras to discover for yourself 🎉
+What's new in version V3.00
 
-
-🤔 مالجديد في انستا راكان الشرماني الاصدار V2.95
-
-💠 [تحديث قاعدة] انستقرام الى 249.0.0.20.105
-💠 [اضـافة] جميع ميزات الانستقرام الجديده
-💠 [اضـافة] شريط ارجاع الفيديو في مقاطع الريلز
-💠 [اعـــادة] توثيق الحسابات الغير موثقه
-💠 [تحسين] واجهة اضافات انستا راكان
-💠 [اصـلاح] مشكلة ظهور الفيديوهات غير واضحه
-💠 [اصـلاح] العديد من الأعطال العشوائية والانهيارات
-💠 [تحسين] اكواد التحديث و مزيد إصلاحات وتحسينات أخرى
-
-🎉 والـكـثيــر من الاضافات اكتشفها بنفسك 🎉
+✅ [Fixed] problem of crashing when opening the Insta in some devices
+✅ [Fixed] problem of the collapse when entering the profile
+✅ [Fixed] problem of the download button of the Reels not appearing
+✅ [Fix] The problem of the collapse of the Rakan Al-Sharmani add-ons for Android phones 12
+✅ [Fixed] Many random crashes and crashes
