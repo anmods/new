@@ -4,6 +4,7 @@
 "NewVersion": "2.1",
 "downloadLink": "https://t.me/an2rakan",
 "changeLogMessage": "تحديث جديد",
+"negativebtn": "الغاء",
 "positivebtn": "تحميل الان",
 "changelogTitle": "Changelogs"
 }
