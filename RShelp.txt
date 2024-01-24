@@ -2,7 +2,7 @@
 "version": "2.1",
 "title": "تحديث جديد",
 "message": "يرجي التحديث",
-"negativeBtn": "",
+"negativeBtn": " ",
 "positiveBtn": "تحمل الان",
 "getLink": "https://t.me/an2rakan"
 }
