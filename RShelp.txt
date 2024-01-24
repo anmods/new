@@ -1,5 +1,5 @@
 {
-"version": "2.1",
+"version": "4.0.2",
 "title": "تحديث جديد",
 "message": "يرجي التحديث",
 "negativeBtn": "لاحقا",
