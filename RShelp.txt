@@ -1,10 +1,10 @@
 {
-  "Visibility": "VISIBLE",
-  "Title": "رسالة من راكان",
-  "Description": "يوجد تحديث جديد",
-  "MainTextButton": "تحديث الان",
-  "Cancelable": "true",
-  "CancelButtonText": "اخفاء الرسالة",
-  "DownloadLink": "https://t.me/an2rakan",
-  "Version": "1.1"
+"version": "2.1",
+"title": "مرحبا بكم",
+"NewVersion": "2.1",
+"downloadLink": "https://t.me/an2rakan",
+"changeLogMessage": "تحديث جديد",
+"negativebtn": "الغاء",
+"positivebtn": "تحميل الان",
+"changelogTitle": "Changelogs"
 }
