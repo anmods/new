@@ -1,8 +1,8 @@
 {
 "version": "2.1",
-"title": "تحديث جديد",
-"downloadLink": "https://t.me/an2rakan",
-"positivebtn": "تحميل الان",
-"message": "الان قوم بالتحديث",
-"negativebtn": "لاحقا"
+"title": "Update Available!",
+"message": "Please update your app to enjoy new features(°•°)",
+"negativeBtn": "Later",
+"positiveBtn": "Update Now",
+"getLink": "https://telegram.me/lizamods"
 }
