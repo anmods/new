@@ -1,8 +1,13 @@
 {
 "version": "2.1",
-"title": "Update Available!",
-"message": "Please update your app to enjoy new features(°•°)",
-"negativeBtn": "Later",
-"positiveBtn": "Update Now",
-"getLink": "https://telegram.me/lizamods"
+"title": "التحديث متاح!",
+"NewVersion": "2.1",
+"downloadLink": "https://t.me/an2rakan",
+"changeLogMessage": "- اصلاحات الشوائب
+ - تحسينات في الأداء
+
+ يتوفر تحديث جديد للتطبيق.  يرجى التحديث للحصول على أحدث الميزات والتحسينات.",
+"negativebtn": "",
+"positivebtn": "تحديث الان",
+"changelogTitle": "سجل التغيرات"
 }
