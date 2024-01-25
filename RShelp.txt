@@ -1,8 +1,8 @@
 {
-"version": "4",
+"version": "2.1",
 "title": "تحديث جديد",
-"message": "يرجي التحديث",
-"negativeBtn": "لاحقا",
-"positiveBtn": "تحمل الان",
-"getLink": "https://t.me/an2rakan"
+"downloadLink": "https://t.me/an2rakan",
+"positivebtn": "تحميل الان",
+"message": "الان قوم بالتحديث",
+"negativebtn": "لاحقا"
 }
