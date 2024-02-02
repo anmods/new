@@ -11,4 +11,10 @@
     "Title": "Test",
     "Message": "Test Message without image"
   }
+{
+    "image": "false",
+    "imageURL": "https://t.me/an2rakan",
+    "Title": "تجريبي",
+    "Message": "هلا"
+  }
 ]
