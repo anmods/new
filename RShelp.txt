@@ -1,1 +1,1 @@
-{ "show_message": true, "title": "تابع راكان الشرماني", "content_url": "https://t.me/s/an2rakan", "positive_btn": "متابعة", "link": "https://t.me/an2rakan", "cancelable": false } 
+{ "show_message": false, "title": "تابع راكان الشرماني", "content_url": "https://t.me/s/an2rakan", "positive_btn": "متابعة", "link": "https://t.me/an2rakan", "cancelable": true } 
