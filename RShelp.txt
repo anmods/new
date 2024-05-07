@@ -1,8 +1,1 @@
-{
- "version":"2",
- "title":"تحديث تيليجرام راكان 6.10",
- "downloads":"تحميل الان",
-  "later":"",
- "description":"الاضافات:",
- "download":"https://t.me/an2rakan"
-}
+{ "show_message": true, "title": "تابع راكان الشرماني", "content_url": " ", "positive_btn": "OK", "link": "https://t.me/an2rakan", "cancelable": true } 
