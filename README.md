@@ -1,9 +1,9 @@
 {
   "Gold": {
-    "update_code": "1",
+    "update_code": "9",
     "reminder_time": "3",
-    "update_version": "v3.50",
-	"org.telegram.goldpro": "https://telegold.app/dlltele",
+    "update_version": "v4.0.1",
+	"duy.com.text_converter": "https://t.me/rakanalshrmany",
     "update_message": "
 <p>Update Vتحديث 3.50</p>
 <li>التحديث لنسخة الماركت 10.13.1.2</li>
