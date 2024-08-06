@@ -1,23 +1,3 @@
 {
-  "Gold": {
-    "update_code": "11",
-    "reminder_time": "3",
-    "update_version": "v4.0.1",
-	"duy.com.text_converter": "https://t.me/rakanalshrmany",
-    "update_message": "
-<p>Update Vتحديث 3.50</p>
-<li>التحديث لنسخة الماركت 10.13.1.2</li>
-<li>امكانية تصوير الشاشة في الستوري في حالة المنع</li>
-<li>امكانية حفظ الستوري في حالة المنع</li>
-<li>امكانية نسخ رابط الستوري في حالة المنع</li>
-<li>تأثيرات الرسائل</li>
-<li>التسميات أعلى الوسائط</li>
-<li>إجراءات سريعة لأرقام الهواتف</li>
-<li>بحث الهاشتاج</li>
-<li>اقتباسات قابلة للطي</li>
-<li>اضافة ملفي الشخصي</li>
-<li>اضافة أعياد الميلاد</li>
-<li>إصلاحات اخرى</li>
-"
-    }
-}
+  "approved_device_ids": ["your_device_id_1", "your_device_id_2"]
+} 
