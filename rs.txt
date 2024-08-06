@@ -3,7 +3,7 @@
     "update_code": "11",
     "reminder_time": "3",
     "update_version": "v4.0.1",
-	"ihhhhhh": "https://t.me/rakanalshrmany",
+	"duy.com.text_converter": "https://t.me/rakanalshrmany",
     "update_message": "
 <p>Update Vتحديث 3.50</p>
 <li>التحديث لنسخة الماركت 10.13.1.2</li>
