@@ -1,0 +1,22 @@
+{
+  "Rakan": {
+    "update_code": "3",
+    "reminder_time": "3",
+    "update_version": "v9.10",
+    "com.ss.android.ugc.trill": "https://t.me/rakanalshrmany",
+    "update_message": "
+<p>Update Vتحديث 9.10</p>
+<li>التحديث لنسخة الماركت 325.0.0.35.91</li>
+<li>إصلاح مشكلة الانهيار عند فتح دردشات جماعيه</li>
+<li>إصلاح مكان زر الارسال</li>
+<li>إصلاح مشكلة عند تحميل الفيديوهات يظهر انها غير مدعومه</li>
+<li>إصلاحات اخرى</li>
+
+<li>Base Update: 325.0.0.35.91</li>
+<li>Fixed Crash problem when opening group chats</li>
+<li>Fixed Location of the Send button</li>
+<li>Fixed Problem when downloading videos shows that they are not supported</li>
+<li>Other fixes</li>
+"
+    }
+}
