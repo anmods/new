@@ -1,5 +1,5 @@
 {
-  "Rakan": {
+  "Gold": {
     "assem.mahgoob": "",
     "atnfas_hoak_gb": "",
     "rakanalshrmany": "",
