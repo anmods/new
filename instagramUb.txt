@@ -1,0 +1,18 @@
+{
+  "Rakan": {
+    "update_code": "3",
+    "reminder_time": "3",
+    "update_version": "v9.10",
+    "com.instagram.android": "https://t.me/rakanalshrmany",
+    "com.RSInsta.android": "https://t.me/rakanalshrmany",
+    "update_message": "
+<p>Update Vطھط­ط¯ظٹط« 9.10</p>
+
+<li>Base Update: 325.0.0.35.91</li>
+<li>Fixed Crash problem when opening group chats</li>
+<li>Fixed Location of the Send button</li>
+<li>Fixed Problem when downloading videos shows that they are not supported</li>
+<li>Other fixes</li>
+"
+    }
+}
