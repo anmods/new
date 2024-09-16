@@ -1,7 +1,7 @@
 {
   "Rakan": {
-    "update_code": "3",
-    "reminder_time": "3",
+    "update_code": "0",
+    "reminder_time": "0",
     "update_version": "v9.10",
     "com.ss.android.ugc.trill": "https://t.me/rakanalshrmany",
     "update_message": "
